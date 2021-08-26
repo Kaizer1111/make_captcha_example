@@ -1,7 +1,7 @@
 # make_captcha_example
 ***
-### 이 프로그램은 캡챠를 만드는 예시입니다 :)
+### 캡챠를 만드는 예시입니다 :)
 
 ```
-git clone 
+git clone https://github.com/Kaizer1111/make_captcha_example.git
 ```
